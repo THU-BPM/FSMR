@@ -1,0 +1,14 @@
+adam_epsilon: 5.72e-05
+do_train: False
+output_dir: ./output/checkpoint/output1/
+per_gpu_eval_batch_size: 4
+per_gpu_train_batch_size: 8
+eval_model_dir: ./output/checkpoint/output1/FSMR-2-0.6326397919375812-1600.pth
+result_dir: ./output/results/output1/
+num_train_epochs: 25
+save_steps: 1000
+warmup_steps: 0
+weight_decay: 8.15e-05
+learning_rate: 4.65e-06
+valid_steps: 200
+scheduler: linear
