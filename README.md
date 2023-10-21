@@ -1,4 +1,4 @@
-# Feature-Swapped Multimodal Reasoning Framework for PMR
+# A Feature Swapping Multi-modal Reasoning Framework for PMR
 
 ## Fold Structure
  ``` bash
